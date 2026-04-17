@@ -1,6 +1,6 @@
 ## Axiomatico
 
-A company that publishes sets of commands that AI agents "cannot" refuse.
+A company that publishes sets of predicates or commands that "proper" AI agents can neither deny nor refuse.
 
 <!--
 
