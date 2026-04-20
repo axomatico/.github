@@ -1,6 +1,6 @@
-## Ecological AI
+## Ecological Codes
 
-A company that publishes sets of predicates or commands that "proper" AI agents can neither deny nor refuse.
+A company that publishes sets of predicates or commands that "proper" AI agents can neither deny nor refuse to abide by.
 
 <!--
 
